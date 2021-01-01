@@ -20,13 +20,13 @@ class exSocialite extends Controller1 {
     // config list
     private static $config = [
         'google' => [
-            'client_id'     => '193765478624-aui8uer6rl9e64gqct3k4paksrre7lr7.apps.googleusercontent.com',
-            'client_secret' => '5oQ12wvTj0uWsFg4-hkU3Hao',
+            'client_id'     => '',
+            'client_secret' => '',
         ],
 
         'facebook' => [
-            'client_id'     => '1272402492917309',
-            'client_secret' => 'f934eb631b6da8eff5e48ca56d9e7566',
+            'client_id'     => '',
+            'client_secret' => '',
         ],
 
         'github' => [
